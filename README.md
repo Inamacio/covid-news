@@ -17,7 +17,7 @@ Open [http://covid-news.s3.amazonaws.com/index.html](http://covid-news.s3.amazon
 
 ## To start the project
 
-## Requisitos
+## Requirements
 - npm
 - Node.js 10.x or higher
 
