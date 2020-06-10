@@ -19,7 +19,7 @@ Open [http://covid-news.s3.amazonaws.com/index.html](http://covid-news.s3.amazon
 
 ## Requisitos
 - npm
-- Node.js 10.x or superior
+- Node.js 10.x or higher
 
 ### `npm install`
 
